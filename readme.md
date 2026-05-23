@@ -1,103 +1,147 @@
-
-# 🚀 Mariya Fatima | Embedded Systems & IoT Engineer
+# <div align="center">✨ Mariya Fatima ✨</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-fatimamariya379%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phone-%2B91%206301091852-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqJnBvcz1jJm89Z2lmJmlkPTEwMTAxMDEwMTAxMDEwMTAxMDEwJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQCpSWX/giphy.gif" width="600" />
+</div>
+
+<div align="center">
+  <h3>Embedded Systems & IoT Engineer | AI/ML Enthusiast</h3>
+  
+  <p align="center">
+    <a href="mailto:fatimamariya379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="tel:+916301091852"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+  
+  <p align="center">
+    📍 Hyderabad, India 🇮🇳
+  </p>
 </div>
 
 ---
 
-## 📝 Professional Summary
-Electronics and Communication Engineering graduate with hands-on expertise in **Embedded Systems**, **IoT hardware**, **PCB Design**, and **AI/ML**. Proven track record of delivering end-to-end hardware-software solutions using ESP32, Arduino, and KiCAD. Recognized for operational excellence and efficiency at Amazon.
+## 💫 About Me
+> "I bridge the gap between hardware and software, creating intelligent systems that interact with the real world."
+
+I am an **Electronics and Communication Engineering** graduate with a passion for building end-to-end IoT solutions. From designing PCBs in KiCAD to deploying AI models on edge devices, I love the challenge of making "dumb" hardware smart.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Expertise
 
-### 🔌 Hardware & Electronics
-![PCB Design](https://img.shields.io/badge/PCB_Design-KiCAD-blue?style=flat-square&logo=kicad)
-![Soldering](https://img.shields.io/badge/Soldering-Professional-orange?style=flat-square)
-![VLSI](https://img.shields.io/badge/VLSI-Certified-lightgrey?style=flat-square)
-![Circuit Design](https://img.shields.io/badge/Circuit_Design-Expert-yellow?style=flat-square)
+<div align="center">
 
-### 🌐 Embedded & IoT
-![ESP32](https://img.shields.io/badge/Microcontroller-ESP32%20%7C%20Arduino%20%7C%20NodeMCU-brightgreen?style=flat-square&logo=espressif)
-![C/C++](https://img.shields.io/badge/Programming-Embedded%20C-blue?style=flat-square&logo=c)
-![Real-time](https://img.shields.io/badge/Systems-Real--time%20%26%20IoT-informational?style=flat-square)
+| **Hardware** | **IoT & Embedded** | **AI & Software** |
+| :---: | :---: | :---: |
+| <img src="https://img.icons8.com/color/48/000000/circuit.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/internet-of-things.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/> |
+| PCB Design (KiCAD) | ESP32 / ESP32 CAM | AI/ML & Computer Vision |
+| Hardware Prototyping | Arduino & NodeMCU | Object Detection (YOLO) |
+| Professional Soldering | Embedded C / C++ | Hugging Face Models |
+| VLSI Design | Real-time Systems | Power BI & Data Viz |
 
-### 🤖 AI & Software
-![Python](https://img.shields.io/badge/Python-AI%20%2F%20ML-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/Object_Detection-YOLO-00FFFF?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/AI_Models-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Power BI](https://img.shields.io/badge/Data_Viz-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects (Interactive)
 
-### 🏎️ Gesture Control Car
-*Real-time vehicle control using ESP32 & NodeMCU via ESP-NOW.*
-- **Tech:** Accelerometer data, ESP-NOW protocol, Motor driver circuits.
-- **Outcome:** Mastered wireless communication and embedded control logic.
+<details>
+<summary><b>🏎️ Gesture Controlled Vehicle (ESP32)</b></summary>
+<br>
+<blockquote>
+  Control a vehicle in real-time using accelerometer data transmitted over <b>ESP-NOW</b>.
+  <ul>
+    <li><b>Tech:</b> ESP32, MPU6050, Motor Drivers</li>
+    <li><b>Impact:</b> Mastered low-latency wireless communication.</li>
+  </ul>
+</blockquote>
+</details>
 
-### 🌲 Fire & Forest Detection System
-*AI/ML-based image classifier for forest fire detection.*
-- **Tech:** YOLO, Python, Dataset preparation.
-- **Outcome:** Developed high-accuracy model training and AI-driven alert systems.
+<details>
+<summary><b>🔥 AI Fire & Forest Detection</b></summary>
+<br>
+<blockquote>
+  Machine learning-based image classifier to detect forest fires from visual feeds.
+  <ul>
+    <li><b>Tech:</b> Python, YOLO, OpenCV</li>
+    <li><b>Impact:</b> Built a dataset and trained a model for early disaster detection.</li>
+  </ul>
+</blockquote>
+</details>
 
-### ⏱️ Biometric Attendance Machine
-*Fingerprint logging to Google Sheets via Wi-Fi.*
-- **Tech:** ESP32, Google Sheets API, I2C OLED, Biometric Sensor.
-- **Outcome:** Integrated hardware with cloud platforms for real-time data logging.
+<details>
+<summary><b>🧤 Biometric Attendance System</b></summary>
+<br>
+<blockquote>
+  Fingerprint-based system logging data to <b>Google Sheets</b> via Wi-Fi with live OLED output.
+  <ul>
+    <li><b>Tech:</b> ESP32, Fingerprint Sensor, Google Cloud, I2C OLED</li>
+    <li><b>Impact:</b> Seamlessly integrated biometric hardware with cloud databases.</li>
+  </ul>
+</blockquote>
+</details>
 
-### 🌡️ IoT Live Webpage
-*Real-time environmental dashboard.*
-- **Tech:** ESP32, DHT11, Web Server programming.
-- **Outcome:** Streamed live sensor data to a custom browser interface.
+<details>
+<summary><b>🌐 IoT Live Weather Dashboard</b></summary>
+<br>
+<blockquote>
+  Real-time temperature and humidity dashboard hosted on ESP32's internal web server.
+  <ul>
+    <li><b>Tech:</b> ESP32, DHT11, HTTP Web Server</li>
+    <li><b>Impact:</b> Accessible from any browser within the local network.</li>
+  </ul>
+</blockquote>
+</details>
 
-### 🎥 Live-Streaming System (ESP32 CAM)
-*IP-based video transmission system.*
-- **Tech:** ESP32 CAM, Networking, Wi-Fi Video Streaming.
-
-### 🛡️ Home Security & Smart Lighting
-- **Security:** Sensor-triggered intrusion detection using Arduino.
-- **Street Light:** LDR and motion-sensor driven energy-efficient LED logic.
+<details>
+<summary><b>🎥 ESP32 CAM Live Streaming</b></summary>
+<br>
+<blockquote>
+  IP-based video streaming system using ESP32 CAM for remote monitoring.
+  <ul>
+    <li><b>Tech:</b> ESP32 CAM, Networking, IP Streaming</li>
+  </ul>
+</blockquote>
+</details>
 
 ---
 
 ## 💼 Professional Experience
 
-| Role | Company | Highlights |
-| :--- | :--- | :--- |
-| **CS Associate** | **Amazon** | Recognized as **Most Efficient Associate** (Week & Quarter) for NA Generalist operations. |
-| **Electronics Intern** | **Physitech Electronics** | Specialized in PCB trainer kit assembly and professional circuit testing. |
-| **AI/ML Intern** | **Indian Servers** | Developed Object Detection models and Power BI visualization dashboards. |
-| **IoT & VLSI Intern** | **PCS / Sapna IoT** | Practical exposure to IoT architectures and VLSI design fundamentals. |
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuZWJ4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqJmlkPTc1MTI1MTI1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l0HlS6mIqG6W8mD9G/giphy.gif" width="200" align="right" />
+</div>
+
+- 📦 **Amazon** | *CS Associate (NA Generalist)*
+  - Managed Kindle (D2) troubleshooting for North America.
+  - **Awarded Most Efficient Associate** (Week & Quarter).
+- 🔬 **Physitech Electronics** | *Electronics Intern*
+  - Professional soldering and PCB trainer kit assembly.
+- 🤖 **Indian Servers** | *AI/ML Intern*
+  - YOLO object detection and Power BI development.
+- 📡 **PCS / Sapna IoT** | *IoT & VLSI Intern*
+  - Exposure to IoT architectures and VLSI design.
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-- **B.E. in Electronics & Communication Engineering** (2025)
-  *Stanley College of Engineering and Technology for Women*
-- **Diploma in Electronics & Communication Engineering** (2022)
-  *Anurag College of Engineering* | **Score: 80%**
-- **SSC** (2019)
-  *Divyanjali High School* | **Score: 85%**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatimamariya379&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimamariya379&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🏆 Certifications & Awards
-
+## 🏆 Awards & Certifications
 - 🏅 **IEEE MERIT Winner** — Project Expo
 - 📜 **NPTEL VLSI Certification**
-- 📚 **Published Chapter** in AIOM
-- 🥇 **1st Prize** — Prathibha Khoj Expo
-- ⚙️ **IoT Workshop Certificate** (2-Day)
+- 🌟 **1st Prize** — Prathibha Khoj Expo
+- 📖 **Published Author** — AIOM Research Chapter
 
 ---
+
 <div align="center">
-  <sub>Built with ❤️ by Mariya Fatima</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
+
