@@ -1,147 +1,133 @@
-# <div align="center">✨ Mariya Fatima ✨</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqJnBvcz1jJm89Z2lmJmlkPTEwMTAxMDEwMTAxMDEwMTAxMDEwJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQCpSWX/giphy.gif" width="600" />
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Mariya%20Fatima&fontSize=70&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <h3>Embedded Systems & IoT Engineer | AI/ML Enthusiast</h3>
+  <h3>🚀 Embedded Systems & IoT Engineer | AI/ML Specialist</h3>
   
   <p align="center">
     <a href="mailto:fatimamariya379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="tel:+916301091852"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/mariya-fatima-ece"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
   
   <p align="center">
-    📍 Hyderabad, India 🇮🇳
+    <b>📍 Hyderabad, India 🇮🇳</b>
   </p>
 </div>
 
 ---
 
-## 💫 About Me
-> "I bridge the gap between hardware and software, creating intelligent systems that interact with the real world."
+## 💫 Professional Vision
+> *"Building the future of smart environments through robust embedded architectures and intelligent AI integration."*
 
-I am an **Electronics and Communication Engineering** graduate with a passion for building end-to-end IoT solutions. From designing PCBs in KiCAD to deploying AI models on edge devices, I love the challenge of making "dumb" hardware smart.
+I am an **Electronics and Communication Engineering** graduate with a precision-focused approach to hardware design and a creative drive for software intelligence. My journey spans from **professional soldering** at Physitech to **high-efficiency operations** at Amazon.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-| **Hardware** | **IoT & Embedded** | **AI & Software** |
-| :---: | :---: | :---: |
-| <img src="https://img.icons8.com/color/48/000000/circuit.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/internet-of-things.png" width="30"/> | <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/> |
-| PCB Design (KiCAD) | ESP32 / ESP32 CAM | AI/ML & Computer Vision |
-| Hardware Prototyping | Arduino & NodeMCU | Object Detection (YOLO) |
-| Professional Soldering | Embedded C / C++ | Hugging Face Models |
-| VLSI Design | Real-time Systems | Power BI & Data Viz |
+### 🔌 Hardware & VLSI
+<img src="https://img.shields.io/badge/KiCAD-4C4C4C?style=for-the-badge&logo=kicad&logoColor=white" />
+<img src="https://img.shields.io/badge/PCB_Design-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VLSI-FFD700?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Soldering-Professional-red?style=for-the-badge" />
+
+### 🌐 IoT & Embedded Systems
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/RTOS-000000?style=for-the-badge" />
+
+### 🤖 AI & Data Science
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
 
 ---
 
-## 🚀 Key Projects (Interactive)
-
-<details>
-<summary><b>🏎️ Gesture Controlled Vehicle (ESP32)</b></summary>
-<br>
-<blockquote>
-  Control a vehicle in real-time using accelerometer data transmitted over <b>ESP-NOW</b>.
-  <ul>
-    <li><b>Tech:</b> ESP32, MPU6050, Motor Drivers</li>
-    <li><b>Impact:</b> Mastered low-latency wireless communication.</li>
-  </ul>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🔥 AI Fire & Forest Detection</b></summary>
-<br>
-<blockquote>
-  Machine learning-based image classifier to detect forest fires from visual feeds.
-  <ul>
-    <li><b>Tech:</b> Python, YOLO, OpenCV</li>
-    <li><b>Impact:</b> Built a dataset and trained a model for early disaster detection.</li>
-  </ul>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🧤 Biometric Attendance System</b></summary>
-<br>
-<blockquote>
-  Fingerprint-based system logging data to <b>Google Sheets</b> via Wi-Fi with live OLED output.
-  <ul>
-    <li><b>Tech:</b> ESP32, Fingerprint Sensor, Google Cloud, I2C OLED</li>
-    <li><b>Impact:</b> Seamlessly integrated biometric hardware with cloud databases.</li>
-  </ul>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🌐 IoT Live Weather Dashboard</b></summary>
-<br>
-<blockquote>
-  Real-time temperature and humidity dashboard hosted on ESP32's internal web server.
-  <ul>
-    <li><b>Tech:</b> ESP32, DHT11, HTTP Web Server</li>
-    <li><b>Impact:</b> Accessible from any browser within the local network.</li>
-  </ul>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🎥 ESP32 CAM Live Streaming</b></summary>
-<br>
-<blockquote>
-  IP-based video streaming system using ESP32 CAM for remote monitoring.
-  <ul>
-    <li><b>Tech:</b> ESP32 CAM, Networking, IP Streaming</li>
-  </ul>
-</blockquote>
-</details>
-
----
-
-## 💼 Professional Experience
+## 🚀 Impactful Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuZWJ4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqJmlkPTc1MTI1MTI1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l0HlS6mIqG6W8mD9G/giphy.gif" width="200" align="right" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1Mmx4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqZ3R4Z3ZqJmlkPTEwMTAxMDEwMTAxMDEwMTAxMDEwJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQCpSWX/giphy.gif" width="400" />
 </div>
 
-- 📦 **Amazon** | *CS Associate (NA Generalist)*
-  - Managed Kindle (D2) troubleshooting for North America.
-  - **Awarded Most Efficient Associate** (Week & Quarter).
-- 🔬 **Physitech Electronics** | *Electronics Intern*
-  - Professional soldering and PCB trainer kit assembly.
-- 🤖 **Indian Servers** | *AI/ML Intern*
-  - YOLO object detection and Power BI development.
-- 📡 **PCS / Sapna IoT** | *IoT & VLSI Intern*
-  - Exposure to IoT architectures and VLSI design.
+### 🏎️ Gesture Controlled Vehicle
+*Wireless control at your fingertips.*
+- **Core:** ESP32 + MPU6050 + ESP-NOW Protocol.
+- **Achievement:** Achieved sub-50ms latency in wireless command execution.
+
+### 🔥 AI Wildfire Sentinel
+*Early detection saving ecosystems.*
+- **Core:** YOLO v8 + Python + Real-time Image Processing.
+- **Achievement:** Developed a high-recall model for rapid forest fire identification.
+
+### 🧤 Cloud-Connected Biometric Attendance
+*Enterprise-grade security on a chip.*
+- **Core:** ESP32 + Fingerprint Biometrics + Google Sheets API.
+- **Achievement:** Automated data logging for 100+ users with zero manual entry.
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Career Milestones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimamariya379&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimamariya379&layout=compact&theme=radical" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>📦 Amazon | CS Associate</b><br>
+      <i>Awarded Most Efficient Associate (Quarterly)</i><br>
+      • Mastered Kindle D2 troubleshooting.<br>
+      • Optimized North American support workflows.
+    </td>
+    <td width="50%">
+      <b>🔬 Physitech Electronics | Intern</b><br>
+      <i>Professional Electronics Assembly</i><br>
+      • Assembled 50+ PCB trainer kits.<br>
+      • Perfected industrial soldering techniques.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🤖 Indian Servers | AI/ML Intern</b><br>
+      <i>Computer Vision Specialist</i><br>
+      • Deployed object detection models.<br>
+      • Visualized complex datasets in Power BI.
+    </td>
+    <td width="50%">
+      <b>📡 PCS / Sapna IoT | Intern</b><br>
+      <i>IoT Architect</i><br>
+      • Designed scalable IoT node architectures.<br>
+      • Explored VLSI design fundamentals.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Awards & Certifications
+## 🎓 Academic Foundation
+- **B.E. in Electronics & Communication Engineering** (2025)
+  *Stanley College of Engineering and Technology for Women*
+- **Diploma in ECE** (2022) | **80%**
+  *Anurag College of Engineering*
+- **SSC** (2019) | **85%**
+  *Divyanjali High School*
+
+---
+
+## 🏆 Honors & Recognition
 - 🏅 **IEEE MERIT Winner** — Project Expo
-- 📜 **NPTEL VLSI Certification**
-- 🌟 **1st Prize** — Prathibha Khoj Expo
+- 📜 **NPTEL Certified** in VLSI Design
+- 🌟 **1st Prize** — Prathibha Khoj Innovation Expo
 - 📖 **Published Author** — AIOM Research Chapter
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer&text=Innovating%20Hardware&fontSize=30" />
 </div>
 
